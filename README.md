@@ -1,7 +1,5 @@
-✨ Intro / About Me
-Hi there 👋 I'm John Joji, a passionate Computer Science student at CUSAT, aspiring to build impactful tech solutions.
-I love building projects that merge creativity with functionality — especially in Flutter, Django, and AI/ML.
+Hi, I'm John Joji! 👋
 
-🔧 Tech Stack
-💻 I work with:
-Flutter • Python • Django • Spring Boot • React • PostgreSQL • Docker • TensorFlow  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=J0Hn-git&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0Hn-git&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=J0Hn-git&theme=tokyonight&hide_border=true)
