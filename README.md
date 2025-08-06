@@ -29,6 +29,10 @@
 
 ---
 
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J0Hn-git&layout=compact&theme=tokyonight) :contentReference[oaicite:1]{index=1}
+
 
 
 
