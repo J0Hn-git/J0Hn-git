@@ -7,8 +7,7 @@
 ## 🧠 About Me
 
 🎓 Currently pursuing Computer Science at Cochin University Of Science And Technology.  
-🚀 Passionate about building intelligent systems that solve real-world problems.  
-📊 Currently working on a **Vehicle Maintenance Prediction System** using machine learning.  
+🚀 Passionate about building intelligent systems that solve real-world problems.    
 📚 Learning more about deep learning, cloud computing, and system design.  
 🧩 Actively solving DSA problems on LeetCode and contributing to open source.
 
