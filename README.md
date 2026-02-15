@@ -28,11 +28,6 @@
 
 ---
 
-## 🛠️ Languages I Use
-
-## 🛠️ Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=J0Hn-git&layout=compact&theme=github_dark&hide_border=true)
 
 
 
