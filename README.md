@@ -24,7 +24,7 @@
 ## ⚙️ Skills and Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,tailwind,firebase,mongodb,django,flutter,threejs&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,javascript,typescript,html,css,react,tailwind,firebase,mongodb,django,flutter,threejs,docker&perline=8" />
 </p>
 
 ---
