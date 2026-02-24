@@ -34,7 +34,11 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnjoji&hide_border=true" />
+</p>
 
 
 
